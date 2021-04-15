@@ -24,7 +24,7 @@ RktDeauther is a wifi deauthication attack(wifi Denial-of-service attack) tool.I
 + git clone https://github.com/r3k4t/rktdeauther.git
 + cd rktdeauther
 
-### Monitor Mode(Start)[Use Panda adapter,ALFA adapter,TP-LINK adapter etc or Use linux bootable pendrive or hdd(harddisk)==>install your linux in harddisk] ###
+### Monitor Mode(Start)[Use Panda adapter,ALFA adapter,TP-LINK adapter etc or Use linux bootable pendrive or hdd(harddisk)==>Please,install your linux in harddisk] ###
 
 <h6>Panda Wireless Adapter</h6> 
 
