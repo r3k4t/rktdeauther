@@ -16,6 +16,7 @@ RktDeauther is a wifi deauthication attack(wifi Denial-of-service attack) tool.I
 ### Setup[PIP MODULE] ###
 
 <h6> Kali Linux,Ubuntu,Linuxmint</h6>
+
 + sudo  pip install -r requirements.txt
 + sudo apt install build-essential libpcap-dev aircrack-ng
 + sudo apt install python-scapy
