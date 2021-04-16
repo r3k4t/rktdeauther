@@ -5,7 +5,7 @@
 # RktDeauther 
 
 
-<h6>Educational Purpose Only</h6>
+<h6>Educational Purposes Only</h6>
 
 ![PicsArt_04-15-11 45 08](https://user-images.githubusercontent.com/69615463/114952525-3fe26d80-9e78-11eb-9c44-b3622ac3f092.jpg)
 
