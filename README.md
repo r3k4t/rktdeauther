@@ -11,7 +11,7 @@
 ### Description ###
 
 
-RktDeauther is a wifi deauthication attack(wifi Denial-of-service attack) tool.Its build on python and shell program.It can help to disconnect any wifi user and jam all wifi network(wifi Acess Point)
+RktDeauther is a Wifi Deauthication Attack(Wifi Denial-of-Service Attack) tool.Its build on python and shell program.It can help to disconnect any wifi user and jam all wifi network(wifi Acess Point)
 
 
 ### Setup[PIP MODULE] ###
