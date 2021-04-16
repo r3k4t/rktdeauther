@@ -70,6 +70,10 @@ RktDeauther is a wifi deauthication attack(wifi Denial-of-service attack) tool.I
 
 ### Disconect target device in your wifi ###
 
++ sudo python rktdeauther.py wifi mac address wifi user mac address
+
+<h6> Example :</h6>
+
 + sudo python rktdeauther.py  E8:DE:27:EA:1A:42 80:01:84:C0:AE:F2
 
 
@@ -77,6 +81,9 @@ RktDeauther is a wifi deauthication attack(wifi Denial-of-service attack) tool.I
 
 ### jam your target wifi  access point(ap) ###
 
++ sudo python rktdeauther.py wifi mac address
+
+<h6> Example : </h6>
 
 + sudo python rktdeauther.py  E8:DE:27:EA:1A:42
 
